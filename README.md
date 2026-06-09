@@ -181,8 +181,6 @@ const jeel = {
 
 ## 🐍 Contribution Snake
 
-> **Setup required:** Go to your repo **Settings → Actions → General** → enable *Read & Write permissions*, then add the GitHub Action workflow to auto-generate the snake.
-
 ![GitHub contribution grid snake animation](https://raw.githubusercontent.com/dev-jeelpatel/dev-jeelpatel/output/github-contribution-grid-snake-dark.svg)
 
 ---
@@ -199,7 +197,7 @@ const jeel = {
   <a href="mailto:dev.jeelpatel@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-dev.jeelpatel@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://github.com/dev-jeelpatel/jeelpatel-portfolio">
+  <a href="https://jeelpatel-portfolio.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-Visit-7B2FBE?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
 </p>
