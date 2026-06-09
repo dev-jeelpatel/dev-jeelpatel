@@ -1,24 +1,7 @@
 <!-- Terminal Header -->
-<div align="center">
-
-```
-╔══════════════════════════════════════════════════════════════╗
-║                                                              ║
-║   ~/dev-jeelpatel $ whoami                                   ║
-║                                                              ║
-║   Name        :  Jeel Patel                                  ║
-║   Role        :  Full Stack MERN Developer                   ║
-║   Stack       :  MongoDB · Express · React · Node.js         ║
-║   Location    :  Surat, Gujarat, India 🇮🇳                    ║
-║   Education   :  B.Tech CSE @ GCET · CGPA 8.44              ║
-║   Current     :  Intern @ Odan Infotech LLP                  ║
-║   Status      :  🟢 Open to Internships & Opportunities      ║
-║                                                              ║
-║   ~/dev-jeelpatel $ _                                        ║
-╚══════════════════════════════════════════════════════════════╝
-```
-
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=2000&pause=500&color=3FB950&background=0D1117&center=true&vCenter=true&multiline=true&repeat=false&width=580&height=200&lines=~/dev-jeelpatel+%24+whoami;+;Name+++++++%3A++Jeel+Patel;Role+++++++%3A++Full+Stack+MERN+Developer;Stack++++++%3A++MongoDB+%C2%B7+Express+%C2%B7+React+%C2%B7+Node.js;Location+++%3A++Surat%2C+Gujarat%2C+India;Status+++++%3A++%F0%9F%9F%A2+Open+to+Internships+%26+Opportunities" alt="Terminal Header" />
+</p>
 
 <!-- Typing SVG -->
 <p align="center">
