@@ -1,7 +1,24 @@
-<!-- Header Banner -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Jeel%20Patel&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full%20Stack%20MERN%20Developer%20%7C%20IoT%20Enthusiast%20%7C%20B.Tech%20CSE&descAlignY=58&descSize=18&descColor=a0a0ff" />
-</p>
+<!-- Terminal Header -->
+<div align="center">
+
+```
+╔══════════════════════════════════════════════════════════════╗
+║                                                              ║
+║   ~/dev-jeelpatel $ whoami                                   ║
+║                                                              ║
+║   Name        :  Jeel Patel                                  ║
+║   Role        :  Full Stack MERN Developer                   ║
+║   Stack       :  MongoDB · Express · React · Node.js         ║
+║   Location    :  Surat, Gujarat, India 🇮🇳                    ║
+║   Education   :  B.Tech CSE @ GCET · CGPA 8.44              ║
+║   Current     :  Intern @ Odan Infotech LLP                  ║
+║   Status      :  🟢 Open to Internships & Opportunities      ║
+║                                                              ║
+║   ~/dev-jeelpatel $ _                                        ║
+╚══════════════════════════════════════════════════════════════╝
+```
+
+</div>
 
 <!-- Typing SVG -->
 <p align="center">
